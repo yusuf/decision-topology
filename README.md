@@ -55,6 +55,7 @@ It constrains action. It does not tell you how to live.
 
 ## Repository Structure
 
+```
 /
 ├─ Decision_Topology_Framework_v1.2.1.md # Canonical source
 ├─ README.md
@@ -62,11 +63,11 @@ It constrains action. It does not tell you how to live.
 ├─ CHANGELOG.md
 ├─ CITATION.cff
 └─ /templates
-├─ simple_decision.md
-├─ complex_decision.md
+    ├─ simple_decision.md
+    ├─ complex_decision.md
+```
 
-yaml
-Copy code
+
 
 The Markdown framework file is the **canonical reference**.
 
