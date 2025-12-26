@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "Decision Topology: A Framework for Ethics Under Irreversibility"
+version: "1.2.1"
+date-released: "2025-12-24"
+authors:
+  - family-names: Shunan
+    given-names: Yusuf Abdulla
+license: CC-BY-4.0
+url: https://yusufshunan.com
+repository-code: https://github.com/your-username/decision-topology
+abstract: >
+  Decision Topology is a minimal, operational ethics framework for
+  decision-making under irreversibility. It defines impermissible action
+  in terms of non-participatory closure of agent futures and provides
+  structured protocols applicable to personal, institutional, policy,
+  and AI contexts.
+keywords:
+  - ethics
+  - decision-making
+  - irreversibility
+  - consent
+  - agency
+  - AI ethics
+  - governance
+
