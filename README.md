@@ -1,111 +1,43 @@
 # Decision Topology
 
 **A Framework for Ethics Under Irreversibility**  
-Version 1.2.1 (Final)
+**Current specification: v1.3**
 
-Decision Topology is a minimal, operational ethics framework designed for
-contexts where decisions close futures irreversibly and participation
-cannot be assumed.
+Decision Topology is a minimal operational ethics framework for choices that close agents' accessible futures. Its architecture is **one axiom, three primitives (Agent, Closure, Standing), and a four-step decision protocol**.
 
-It reframes ethics as **topology management**:  
-who has standing over which futures, and under what conditions those
-futures may be closed.
+## Read the framework
 
----
+- [Canonical specification v1.3](Decision_Topology_Framework_v1.3.md) (Markdown; authoritative)
+- [Version history](CHANGELOG.md)
+- [Simple decision worksheet](templates/simple_decisions.md)
+- [Complex decision worksheet](templates/complex_decision.md)
 
-## What This Framework Is
+The original [v1.2.1 Markdown](Decision_Topology_Framework_v1.2.1.md) and [v1.2.1 PDF](Decision_Topology_Framework_v1.2.1.pdf) remain available **as historical editions, not current guidance**. The existing [one-page PDF](One_Page_Framework_Summary.pdf) also predates v1.3 and is retained for historical reference only. For the current one-page summary, see **Section 21** of the canonical v1.3 Markdown.
 
-Decision Topology provides:
+## Core axiom
 
-- A **single axiom** defining impermissible action
-- **Three primitives** (Agent, Closure, Standing)
-- A **four-step decision protocol**
-- Hardenings against coercion, deception, and representational distortion
-- Explicit handling of **irreversibility, cascades, and scale**
-- Applicability across:
-  - Personal decisions
-  - Business ethics
-  - Policy and governance
-  - AI and automated systems
+> An action is impermissible if it creates closure, material or representational, over an agent's future states without that agent's valid participation, unless the closure prevents a greater non-participatory closure affecting another agent and the preventive closure is proportional.
 
-It defines the **ethical floor** — what must not be violated.
+## What changed in v1.3
 
----
+1. **Standing is not an institutional hierarchy.** Direct standing belongs to agents. Delegated participation transfers exercise, never standing; institutional representation is not authorization.
+2. **Collective safeguards constrain but do not authorize.** Participation approximation, voice, exit, and decision necessity cannot manufacture consent. Necessity to decide is not permission to close.
+3. **Exercise is not authorization.** A refusal, abstention, silence, or representative process does not itself authorize closure. Direct participation and operative delegation must be checked per affected standing-holder and per cascade stage.
+4. **Authorization Status and Decision Status are distinct.** WITHHELD is not UNAVAILABLE. Where authorization is genuinely unavailable, a decision may be REQUIRED yet the closure IMPERMISSIBLE. This does not introduce a new permissibility route.
 
-## What This Framework Is Not
+**Two distinct bases must not be conflated:** valid direct/delegated participation provides *authorization*; a satisfied Defensive Exception can provide a separate *basis of permissibility without authorization*. Urgency alone supplies neither.
 
-Decision Topology does **not**:
+## Protocol
 
-- Optimize among permissible options
-- Replace virtue, meaning, or purpose
-- Provide a formula that removes judgment
-- Solve all ethical questions
+1. Map direct, representational, and cascading closures, identifying each standing-holder.
+2. Verify participation, including opportunity, capacity, exercise, authorization content, and any operative delegation; classify authorization status per closure.
+3. Where participation is invalid, test the appropriate Defensive Exception with its safeguards.
+4. Record the **Permissibility Verdict**, and where applicable the independent **Decision Status**. Document unresolved impermissibility rather than relabeling it as consent.
 
-It constrains action. It does not tell you how to live.
+Decision Topology sets an ethical floor; it does not optimize among permissible choices, replace virtues or purposes, or remove the need for judgment.
 
----
+## License and citation
 
-## Core Idea (One Sentence)
+Licensed under [CC BY 4.0](LICENSE). Cite: **Yusuf Abdulla Shunan, _Decision Topology: A Framework for Ethics Under Irreversibility_, v1.3**. Machine-readable metadata: [CITATION.cff](CITATION.cff).
 
-> An action is impermissible if it closes an agent’s futures without that
-> agent’s valid participation, unless it prevents a greater non-participatory
-> closure and is proportional to what it prevents.
-
----
-
-## Repository Structure
-
-```
-/
-├─ Decision_Topology_Framework_v1.2.1.md # Canonical source
-├─ README.md
-├─ LICENSE
-├─ CHANGELOG.md
-├─ CITATION.cff
-└─ /templates
-    ├─ simple_decision.md
-    ├─ complex_decision.md
-```
-
-
-
-The Markdown framework file is the **canonical reference**.
-
----
-
-## License
-
-This work is licensed under the **Creative Commons Attribution 4.0
-International License (CC BY 4.0)**.
-
-You may use, adapt, and redistribute this framework, including for
-commercial purposes, provided appropriate attribution is given.
-
-See `LICENSE` for details.
-
----
-
-## Citation
-
-If you use or reference Decision Topology, please cite:
-
-> **Decision Topology: A Framework for Ethics Under Irreversibility**  
-> Yusuf Abdulla Shunan  
-> Version 1.2.1 (Final)  
-> CC BY 4.0  
-> https://yusufshunan.com
-
----
-
-## Status
-
-Version **1.2.1** is a **final, stable public release**.  
-Future versions may extend the framework but will preserve backward
-compatibility of core concepts.
-
----
-
-*One axiom. Three primitives. Four steps.*  
-*Standing is binary. Participation modality varies.*  
-*Recursion is bounded by closure.*  
-*Waiting is never free.*
+*One axiom. Three primitives. Four steps. Necessity to decide is not permission to close.*
