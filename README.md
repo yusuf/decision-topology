@@ -8,11 +8,15 @@ Decision Topology is a minimal operational ethics framework for choices that clo
 ## Read the framework
 
 - [Canonical specification v1.3](Decision_Topology_Framework_v1.3.md) (Markdown; authoritative)
-- [Version history](CHANGELOG.md)
+- [Version history and v1.2.1 → v1.3 migration guide](CHANGELOG.md)
+- [v1.3 release notes](docs/v1.3-release-notes.md)
+- [Report an implementation issue or test result](https://github.com/yusuf/decision-topology/issues/new)
 - [Simple decision worksheet](templates/simple_decisions.md)
 - [Complex decision worksheet](templates/complex_decision.md)
 
-The original [v1.2.1 Markdown](Decision_Topology_Framework_v1.2.1.md) and [v1.2.1 PDF](Decision_Topology_Framework_v1.2.1.pdf) remain available **as historical editions, not current guidance**. The existing [one-page PDF](One_Page_Framework_Summary.pdf) also predates v1.3 and is retained for historical reference only. For the current one-page summary, see **Section 21** of the canonical v1.3 Markdown.
+**Release status:** The authoritative v1.3 source is this repository's canonical Markdown. GitHub's release badge may still show v1.2.1 until a v1.3 GitHub Release is published. Do not use the older release download as current guidance.
+
+The original [v1.2.1 Markdown](Decision_Topology_Framework_v1.2.1.md) and [v1.2.1 PDF](Decision_Topology_Framework_v1.2.1.pdf) remain available **as historical editions, not current guidance**. The existing [one-page PDF](One_Page_Framework_Summary.pdf) also predates v1.3 and is retained for historical reference only; **do not distribute it as the v1.3 summary**. For the current one-page summary, see **Section 21** of the canonical v1.3 Markdown.
 
 ## Core axiom
 
@@ -41,3 +45,7 @@ Decision Topology sets an ethical floor; it does not optimize among permissible 
 Licensed under [CC BY 4.0](LICENSE). Cite: **Yusuf Abdulla Shunan, _Decision Topology: A Framework for Ethics Under Irreversibility_, v1.3**. Machine-readable metadata: [CITATION.cff](CITATION.cff).
 
 *One axiom. Three primitives. Four steps. Necessity to decide is not permission to close.*
+
+## Implementations and feedback
+
+If you build a decision tool using DT, please [open an issue](https://github.com/yusuf/decision-topology/issues/new) with the DT version, use case, expected result, observed result, and a minimal reproducible scenario. Remove private or identifying information before posting. Report protocol ambiguity and disagreements as well as software defects. An issue is a request for review, not an endorsement of the implementation.
