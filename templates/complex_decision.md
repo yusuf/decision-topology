@@ -20,7 +20,7 @@ Repeat for **each affected standing-holder / materially distinct class, at each 
 
 | Stage / closure | Standing-holder | Opportunity and capacity (incl. all seven impairment checks) | Direct exercise AND affirmative authorization content? | Prior valid delegation, scoped and operative? | Delegate's independent exercise, capacity and accountability? | Participation result | Authorization Status |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| | | | | | | VALID / INVALID | AUTHORIZED / WITHHELD / UNAVAILABLE / participation failure |
+| | | | | | | VALID / INVALID | AUTHORIZED / WITHHELD / UNAVAILABLE / not established (record ordinary participation failure separately) |
 
 **Delegation test:** standing-holder validly authorized delegation; intelligible decision envelope; this closure inside envelope; delegation operative (including timely specific refusal and heightened verification for highly irreversible closure); delegate separately satisfies opportunity/capacity/exercise; delegate faithfully accountable. Standing never transfers. Fresh authorization analysis is required at each downstream stage.
 
@@ -51,7 +51,7 @@ A satisfied Defensive Exception is a distinct **permissibility basis**, not part
 ## 5. Two-axis outcome ledger
 | Stage / closure / standing-holder | Participation Authorization Status | Defensive Exception result | Permissibility Verdict | Decision Status (only where applicable) | Evidence / accountability |
 | --- | --- | --- | --- | --- | --- |
-| | | | PERMISSIBLE / IMPERMISSIBLE / MODIFY | REQUIRED / Not required / N/A | |
+| | | | PERMISSIBLE / IMPERMISSIBLE / REQUIRES MODIFICATION | REQUIRED / Not required / N/A | |
 
 For an IMPERMISSIBLE closure with genuinely UNAVAILABLE authorization, test **both** Structural Unavoidability and Decision Necessity before recording REQUIRED. REQUIRED does not cure impermissibility, cancel a specific WITHHELD refusal, or erase responsibility for prior choices that created the necessity. The “Required but Non-Authorized” shorthand is **not available** for policy, mass, or institutional closures.
 

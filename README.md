@@ -10,11 +10,13 @@ Decision Topology is a minimal operational ethics framework for choices that clo
 - [Canonical specification v1.3](Decision_Topology_Framework_v1.3.md) (Markdown; authoritative)
 - [Version history and v1.2.1 → v1.3 migration guide](CHANGELOG.md)
 - [v1.3 release notes](docs/v1.3-release-notes.md)
+- [Implementation regression cases](examples/regression/README.md)
+- [Versioning and compatibility guidance](docs/versioning.md)
 - [Report an implementation issue or test result](https://github.com/yusuf/decision-topology/issues/new)
 - [Simple decision worksheet](templates/simple_decisions.md)
 - [Complex decision worksheet](templates/complex_decision.md)
 
-**Release status:** The authoritative v1.3 source is this repository's canonical Markdown. GitHub's release badge may still show v1.2.1 until a v1.3 GitHub Release is published. Do not use the older release download as current guidance.
+**Version-pinned distribution:** [v1.3 release page](https://github.com/yusuf/decision-topology/releases/tag/v1.3) · [Tagged canonical specification](https://github.com/yusuf/decision-topology/blob/v1.3/Decision_Topology_Framework_v1.3.md). Use the tagged specification for reproducible citations and implementations.
 
 The original [v1.2.1 Markdown](Decision_Topology_Framework_v1.2.1.md) and [v1.2.1 PDF](Decision_Topology_Framework_v1.2.1.pdf) remain available **as historical editions, not current guidance**. The existing [one-page PDF](One_Page_Framework_Summary.pdf) also predates v1.3 and is retained for historical reference only; **do not distribute it as the v1.3 summary**. For the current one-page summary, see **Section 21** of the canonical v1.3 Markdown.
 

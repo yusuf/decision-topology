@@ -24,7 +24,7 @@ Use for limited-scope decisions. Escalate to the [complex worksheet](complex_dec
 | Delegation: intelligible scope; closure within scope; operative/not revoked? | |
 | Delegate's independent opportunity, capacity, exercise; faithful accountability? | |
 | **Participation result** | VALID (direct/delegated) / INVALID |
-| **Authorization Status** | AUTHORIZED / WITHHELD / UNAVAILABLE / ordinary participation failure |
+| **Authorization Status** | AUTHORIZED / WITHHELD / UNAVAILABLE / not established (record ordinary participation failure separately) |
 
 **Boundary:** Silence, refusal, abstention, institutional representation, or a caretaker's assumption of authority do not count as affirmative authorization. UNAVAILABLE requires genuine infeasibility, not merely consent left unsought. A closure-specific WITHHELD status is not reopened by urgency.
 
